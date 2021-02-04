@@ -15,4 +15,6 @@ jobs:
       - run: flutter -v build apk
 
 workflows:
-  - build
+  test:
+    jobs:
+      - build
