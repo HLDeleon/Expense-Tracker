@@ -1,4 +1,4 @@
-#Tue Jul 07 12:00:24 SGT 2020
-base.0=C\:\\Users\\Carlo\\Documents\\1.Projects\\Flutter\\expense_tracker\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+#Tue Aug 25 11:23:14 SGT 2020
+base.0=C\:\\Users\\Carlo\\Documents\\1.Projects\\Flutter\\expense_tracker\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
